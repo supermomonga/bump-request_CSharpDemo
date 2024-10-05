@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "dependencies": {
+    "net8.0": {
+      "RubyFlavor": {
+        "type": "Direct",
+        "requested": "[0.0.*, )",
+        "resolved": "0.0.7",
+        "contentHash": "WU0PE4iIyL780YW5loBUUnKWFI/q3My150AmO4GHjSHBOCfqJN1+fID7iLESFAcHtevQFF/n9JgeNYiYdKaT/A==",
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0"
+        }
+      },
+      "Microsoft.CSharp": {
+        "type": "Transitive",
+        "resolved": "4.7.0",
+        "contentHash": "pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA=="
+      }
+    }
+  }
+}
